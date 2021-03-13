@@ -1,0 +1,2 @@
+console.log('1'+'1');
+console.log('Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, optio? Culpa ullam minus vel labore recusandae natus velit ut laudantium itaque voluptatem et commodi rerum molestias, laboriosam perferendis ipsum expedita corporis corrupti, animi hic veniam in nam officiis? Quasi earum aliquam deserunt fugit voluptatibus mollitia repellendus tenetur expedita deleniti minus eos dolore fugiat et laborum, quisquam beatae adipisci inventore!'.length);
